@@ -43,8 +43,6 @@ La lógica de la interfaz se divide en métodos separados (createLoginPanel, cre
 Se añade un Timer para simular la animación de la barra de progreso, lo que mejora la interactividad.
 
 # Cómo Ejecutar el Proyecto
-Para compilar y ejecutar las interfaces, puedes usar tu IDE favorito (como IntelliJ IDEA, Eclipse o Visual Studio Code).
-
+Para compilar y ejecutar las interfaces, puedes descargar el proyecto y abrirlo en Intelli J.
 Abre el proyecto.
-
 Ejecuta la clase principal de la interfaz que desees ver (InicioSesion.java, Interfaz2.java o Interfaz3.java).
