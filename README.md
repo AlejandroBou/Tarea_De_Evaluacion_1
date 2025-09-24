@@ -4,7 +4,7 @@ Este proyecto es una serie de interfaces de usuario desarrolladas en Java Swing,
 Cada archivo Java representa una etapa de este proceso, introduciendo nuevos componentes y patrones de diseño para mejorar la organización y la experiencia del usuario.
 
 # Fases del Proyecto
-##Interfaz 1 (InicioSesion.java)
+## Interfaz 1 (InicioSesion.java)
 La versión inicial del proyecto. Es un formulario básico de inicio de sesión que utiliza un GridLayout para una distribución simple y lineal de los componentes.
 
 ### Componentes: 
